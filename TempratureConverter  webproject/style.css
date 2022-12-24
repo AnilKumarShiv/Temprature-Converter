@@ -1,0 +1,38 @@
+body{
+    background-color:rgb(236, 180, 76);
+    padding: 50px 100px;
+    border: 10px;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+#container{
+  text-align: center;
+  background-color: aqua;
+  padding: 50px;
+}
+.input-div{
+    display: inline-block;
+}
+.inp{
+    padding: 5px 10px;
+    margin: 10px;
+    
+    font-weight: bold;
+    text-align: center;
+}
+.lev{
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 20px;
+}
+#para{
+   text-align: center;
+   color: rgb(161, 136, 185);
+}
+h2{
+    text-align: center;
+    color:blueviolet;
+    font-weight: bold;
+}
